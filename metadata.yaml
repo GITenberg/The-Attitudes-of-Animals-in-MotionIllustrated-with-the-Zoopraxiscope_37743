@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39025
     wikipedia: http://en.wikipedia.org/wiki/Eadweard_Muybridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37743#The-Attitudes-of-Animals-in-MotionIllustrated-with-the-Zoopraxiscope
 gutenberg_issued: '2011-10-13'
 gutenberg_type: Text
 identifiers:
